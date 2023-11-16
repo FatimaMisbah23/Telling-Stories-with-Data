@@ -95,4 +95,4 @@ Although my attempt at redesigning the graph is far from perfect, I think it doe
 
 ## Data Viz Redesign Challenge 
 
-For a course assignment, I chose a data visualization and redesigned it with a twist. The idea was to take an existing visualization, review it, redesign it, and improve it iteratively using feedback from peers. Please click [here]([https://website-name.com](https://fmisbah.github.io/Data-Viz-Redesign-Challenge/)https://fmisbah.github.io/Data-Viz-Redesign-Challenge/) to view it.
+For a course assignment, I chose a data visualization and redesigned it with a twist. The idea was to take an existing visualization, review it, redesign it, and improve it iteratively using feedback from peers. Please click [here](https://fmisbah.github.io/Data-Viz-Redesign-Challenge/) to view it.
