@@ -92,3 +92,7 @@ I feel that the stacked area graph helps represent the proportion of each catego
 I also updated the title and description to mention that the data was collected from US residents, and I hope that provides the audience with some regional and cultural context about who Americans typically spend their time with. 
 I removed the legend and labelled each category on the graph. This may not look that visually pleasing but it helped me use the same shade of grey for all categories and separate them using borders. 
 Although my attempt at redesigning the graph is far from perfect, I think it does a good job of conveying a message and telling a story. 
+
+## Data Viz Redesign Challenge 
+
+For a course assignment, I chose a data visualization and redesigned it with a twist. The idea was to take an existing visualization, review it, redesign it, and improve it iteratively using feedback from peers. Please click [here]([https://website-name.com](https://fmisbah.github.io/Data-Viz-Redesign-Challenge/)https://fmisbah.github.io/Data-Viz-Redesign-Challenge/) to view it.
