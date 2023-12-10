@@ -1,4 +1,4 @@
-# Americans are living longer, but at what cost?
+# Americans are living longer, but are they truly living better?
 ## Summary
 The project aims to communicate the dual reality of an aging US population - the achievement of longer life expectancy and the simultaneous increase in challenges related to chronic diseases, loss of income, healthcare costs, and dependence on others for Activities of Daily Living (ADLs). While longer life expectancy is a positive outcome of innovation in medicine and improvements in healthcare, it is accompanied by a growing set of challenges that diminish the quality of life for many seniors. 
 Through effective data visualizations, I hope to advocate and communicate the need for a holistic approach to address the evolving needs of seniors and inform policies that enhance their overall well-being.
