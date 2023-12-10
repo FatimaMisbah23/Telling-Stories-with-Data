@@ -38,4 +38,4 @@ For a course assignment, I chose a data visualization and redesigned it with a t
 
 Please click [here](https://fmisbah.github.io/Telling-Stories-with-Data/Redesign)
 Part 1: [Outline and Sketches](https://fmisbah.github.io/Telling-Stories-with-Data/Final-Project)
-Part 2: [Story draft in Shorthand](https://fmisbah.github.io/Telling-Stories-with-Data/Draft/)
+Part 2: [Story draft in Shorthand](https://fmisbah.github.io/Telling-Stories-with-Data/Story-Draft)
