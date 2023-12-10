@@ -1,3 +1,9 @@
+| [Portfolio Page](https://fmisbah.github.io/Telling-Stories-with-Data/) |
+| [Visualizing Redesign Challenge](https://fmisbah.github.io/Telling-Stories-with-Data/RedesignChallenge) | 
+| [Final Project: Part 1](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part1) | 
+| [Final Project: Part 2](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part2) | 
+| [Final Project: Part 3](https://fmisbah.github.io/Telling-Stories-with-Data/Final Project_Part 3) |
+
 # Telling-Stories-with-Data
 Welcome to my website.
 # About me
