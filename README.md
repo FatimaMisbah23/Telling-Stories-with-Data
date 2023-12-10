@@ -14,12 +14,13 @@ I'm a masters student studying Public Policy and Management with Data Analytics 
 # My Portfolio
 
 ## Assignment
-[Visualizing Government Debt]
+[Visualizing Government Debt](https://fmisbah.github.io/Telling-Stories-with-Data/Visualizing-government-debt)
 ## Assignment 
 [Visualization Redesign Challenge](https://fmisbah.github.io/Telling-Stories-with-Data/RedesignChallenge)
 
 
 ## Final Project
 
-Part 1: [Outline and Sketches](https://fmisbah.github.io/Telling-Stories-with-Data/Final-Project)
-Part 2: [Story draft in Shorthand](https://fmisbah.github.io/Telling-Stories-with-Data/Story-Draft)
+[Part 1: Summary, Outline and Sketches](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part1)
+[Part 2: Story draft](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part2)
+[Part 3: Final Story](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part3)
