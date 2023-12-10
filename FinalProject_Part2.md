@@ -15,7 +15,7 @@ Student 1: The story was quite clear and concise, with a nice flow from the prob
 
 Student 2: Yes, I think it was developed nicely.
 
-Student 3: Yes, I think it started more broadly idea but became focused as the story progressed. 
+Student 3: Yes, I think it started more broadly but became focused as the story progressed. 
 
 **Q2) What resonated with you about the idea?**
 
