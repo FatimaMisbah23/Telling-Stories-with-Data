@@ -1,3 +1,9 @@
+| [Portfolio Page](https://fmisbah.github.io/Telling-Stories-with-Data/) |
+| [Visualizing Redesign Challenge](https://fmisbah.github.io/Telling-Stories-with-Data/RedesignChallenge) | 
+| [Final Project: Part 1](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part1) | 
+| [Final Project: Part 2](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part2) | 
+| [Final Project: Part 3](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part3) |
+
 # Americans are living longer, but are they truly living better?
 ## Summary
 The project aims to communicate the dual reality of an aging US population - the achievement of longer life expectancy and the simultaneous increase in challenges related to chronic diseases, loss of income, healthcare costs, and dependence on others for Activities of Daily Living (ADLs). While longer life expectancy is a positive outcome of innovation in medicine and improvements in healthcare, it is accompanied by a growing set of challenges that diminish the quality of life for many seniors. 
