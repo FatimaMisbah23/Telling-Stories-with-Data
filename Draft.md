@@ -1,5 +1,5 @@
 # Part 2: Story Draft and User Research
-Using the outline for my story and the sketches from [Part 1](https://fmisbah.github.io/TSwD-Final-Project/), I created a draft of the story using Shorthand, which can be viewed [here](https://carnegiemellon.shorthandstories.com/fmisbah/index.html)
+Using the outline for my story and the sketches from [Part 1](https://fmisbah.github.io/Telling-Stories-with-Data/Final-Project), I created a draft of the story using Shorthand, which can be viewed [here](https://carnegiemellon.shorthandstories.com/fmisbah/index.html)
 My main page for the course Telling Stories with Data can be viewed [here](https://fmisbah.github.io/Telling-Stories-with-Data/).
 
 ## User Research
