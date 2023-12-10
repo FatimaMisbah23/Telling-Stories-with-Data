@@ -1,6 +1,9 @@
+|[Portfolio Page](https://fmisbah.github.io/Telling-Stories-with-Data/)||[Visualizing Redesign Challenge](https://fmisbah.github.io/Telling-Stories-with-Data/RedesignChallenge)||[Final Project: Part 1](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part1)||[Final Project: Part 2](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part2)||[Final Project: Part 3](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part3)|
+
+[My portfolio page](https://fmisbah.github.io/Telling-Stories-with-Data/).
+
 # Part 2: Story Draft and User Research
-Using the outline for my story and the sketches from [Part 1](https://fmisbah.github.io/Telling-Stories-with-Data/Final-Project), I created a draft of the story using Shorthand, which can be viewed [here](https://carnegiemellon.shorthandstories.com/fmisbah/index.html)
-My main page for the course Telling Stories with Data can be viewed [here](https://fmisbah.github.io/Telling-Stories-with-Data/).
+Using the outline for my story and the sketches from [Part 1](https://fmisbah.github.io/Telling-Stories-with-Data/FinalProject_Part1), I created a draft of the story using Shorthand.
 
 ## User Research
 To gather valuable feedback on my story draft, I conducted interviews from people that I believe represent the audience I hope to reach with my story. The goal was to gather actionable insights that could help me make my story more engaging and informative. Although I created the story with the general public in mind, I believe it would be most effectively delivered to policy students and healthcare professionals. Fortunately, at Heinz, I was able to find many experienced and talented graduate students who have worked at the intersection of policy, management and healthcare. All three of them are between the ages of 25-30.
