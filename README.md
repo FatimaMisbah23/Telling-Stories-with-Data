@@ -1,46 +1,60 @@
-# Telling-Stories-with-Data
-Welcome to my website.
-# About me
-I'm a second year MSPPM student and am really excited to use github for storing my work!
-# My Portfolio
-## 2020 debt-to-GDP ratio for countries hit hardest by COVID-19
-<iframe src="https://data.oecd.org/chart/7eXT" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7eXT" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
-## Debt-to-GDP Ratio by country- since 1995
-<div class='tableauPlaceholder' id='viz1699402240703' style='position: relative'><noscript><a href='#'><img alt='Debt-to-GDP ratio ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;Govt-GDP-debt&#47;Debt-to-GDPratio&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Govt-GDP-debt&#47;Debt-to-GDPratio' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;Govt-GDP-debt&#47;Debt-to-GDPratio&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1699402240703');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
-## Countries with the highest Debt-to-GDP ratios: 5 year timeline
-The visualization shows countries with debts consistently more than 100% of their GDP from 2014 to 2018. I believe that line graphs are a great way to represent progress and can also help us forecast estimates for the next period based on recent trends. Here, we can see that Japan, Greece and USA show an upward trend for debt burden in 2018, while the ratios for Italy and Portugal show a downward trend in 2018.
-<div class='tableauPlaceholder' id='viz1699421618838' style='position: relative'><noscript><a href='#'><img alt='Countries with the highest debt burden: 5 year timeline ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HighestGovt-GDP-debtratios&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='HighestGovt-GDP-debtratios&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Hi&#47;HighestGovt-GDP-debtratios&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1699421618838');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  var scriptElement = document.createElement('script'); 
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+# Americans are living longer, but at what cost?
+## Summary
+The project aims to communicate the dual reality of an aging US population - the achievement of longer life expectancy and the simultaneous increase in challenges related to chronic diseases, loss of income, healthcare costs, and dependence on others for Activities of Daily Living (ADLs). While longer life expectancy is a positive outcome of innovation in medicine and improvements in healthcare, it is accompanied by a growing set of challenges that diminish the quality of life for many seniors. 
+Through effective data visualizations, I hope to advocate and communicate the need for a holistic approach to address the evolving needs of seniors and inform policies that enhance their overall well-being.
 
-## Comparing visualizations of the same data
-The data for general government debt-to-GDP ratio was taken from OECD's data website. The dataset has contains these ratios for several countries from 1995 to 2019, and the same dataset was used for all  visualizations. The General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP, and is a crucial metric for assessing the stability of government finances.
-In the first visualisation, the bar chart helps us understand how the Debt-to-GDP ratio varies across several countries for one time period (2020). It highlights the countries that were hit hard by the COVID 19 pandemic and, as a result, saw high general government debt for 2020. The visualization does not, however, help us understand the progression and trends associated with the debt-to-GDP ratios.
+## Outline 
+1. Introduction:
+A brief overview of the demographic shift towards an aging population in the U.S. and the implications for healthcare services and societal structures .
 
-A heatmap is a great way to communicate details of our data and represent varying magnitude/intensities of a variable for different categories. The heatmap visualization does a great job of highlighting the countries that have relatively high debt burdens with ratios above 1 (debt more than GDP), further showing how much the ratios deviate from the center point through varying intensities of color. Additionally, it effectively communicates the progress of several countries with respect to the debt-to-GDP ratio over a period of time.
+2. Chronic Disease Prevalence:
+Statistics on the prevalence of one or more chronic diseases in the population aged 65 and older, and the expected growth in this percentage till 2050.
+Discuss insights and the burden on individuals and the healthcare systems.
 
-I chose a line chart for the third visualization to show the progress of countries with high debt burden over a period of 5 years. I believe lines are an excellent way to depict progress and trends and thus make it easy to compare performance across different countries. The upward and downward trends for the debt-to-GDP ratios in the latest period help us predict what these ratios may look like for different countries in 2019, which is a helpful insight that this type of visualisation makes easy to infer.
+3. Quality of Life Metrics:
+Overview of selected metrics impacting the quality of life for seniors:
+a. Poverty/Loss of Income:
+Examination of the economic challenges faced by elderly individuals.
+b. Out-of-Pocket Healthcare Costs:
+Analysis of the financial burden of healthcare on the elderly.
+c. Dependence on Others for ADLs:
+Discussion on challenges and implications for seniors and caregivers.
+d. Social Isolation:
+Exploration of contributing factors and the impact on mental health.
 
-## Data Viz Redesign Challenge 
+4. Longterm Healthcare Needs
+Discussion on the long temr healthcare needs that most seniors have, and the current state of long-term healthcare.
 
-For a course assignment, I chose a data visualization and redesigned it with a twist. The idea was to take an existing visualization, review it, redesign it, and improve it iteratively using feedback from peers. Please click [here](https://fmisbah.github.io/Data-Viz-Redesign-Challenge/) to view it.
+5. Discussion on Solutions and Policy Recommendations
+Analysis of existing policies and their effectiveness and an exploration of holistic solutions considering healthcare, social, and economic aspects.
 
-## Final Project
+6. Summarization of key findings and an emphasis on the interconnected nature of challenges and the need for comprehensive solutions.
 
-Part 1: [Outline and Sketches](https://fmisbah.github.io/TSwD-Final-Project/)
-Part 2: [Story draft in Shorthand](https://fmisbah.github.io/Final-Project-Story-Draft/)
+7. Call to Action:
+Encouragement for policy and healthcare students/professionals to work towards optimized care for the aging population and advocacy for better initiatives focused on improving the lives of seniors.
+
+## Initial sketches
+The growing elderly population of the US
+![Figure 1](elderly-pop.png)
+
+Prevalence of chronic disease in the elderly
+![Figure 2](chronic-disease-elderly.png)
+
+The percentage of National Healthcare Expenditure in 2020 attributed to population 65 and older
+![Figure 3](NHE-elderly.png)
+
+Increase in poverty among the elderly population from 2019 to 2023
+![Figure 4](Poverty.png)
+
+## Data sources
+
+(1) To show the increase in the elderly population in the US over the past 50 years, I'll be extracting data from table 1(b) and Figure 2 of the US Census Bureau's [Census Brief 2020: The Older Population](https://www2.census.gov/library/publications/decennial/2020/census-briefs/c2020br-07.pdf).
+
+(2) Data for the current and projected chronic disease burden for the elderly population was taken from a [table1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9881650/table/T1/) of [Projecting the chronic disease burden among the adult population in the United States using a multi-state population model (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9881650/#:~:text=Most%20individuals%20with%20at%20least,of%2060%20to%2079%20years.), a paper authored by John P. Ansah and Chi-Tsun Chiu for NCBI.
+
+(3) Data for healthcare costs of people aged 65 years and older was extracted from NCBI's paper on [Medical Spending of the US Elderly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6680320/#:~:text=In%20the%20last%2012%20months,cent%20of%20aggregate%20medical%20spending.).
+This will inform some of my discussion around the economic burden on the elderly population as they lose most of the control of their lives and manage one or mor echronic diseases.
+
+## Method and Medium
+I will use Shorthand to build this project, and will be presenting from it for the final project presentation.
 
