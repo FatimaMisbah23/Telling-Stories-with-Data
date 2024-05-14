@@ -3,9 +3,9 @@
 # Final Project Part 3- the final story
 [American seniors are living longer, but are they living better?](https://carnegiemellon.shorthandstories.com/fmisbah/index.html)
 
-## My journey
-A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-"Focused the story, as it was a hit high level before. My focus was on the cost of healthcare and the disproportionate financial burden on the elderly population. This was done visually through pie charts. I also discussed the state of lhc in America to further persuade the reader on the problem. Then presented actionable, effective call to action along with some goals to direct the reader towards using the CTA tool effectively.
+## My process
+
+The insights from the user research helped me focus my story, as it was a bit high-level before. My focus was on the cost of healthcare and the disproportionate financial burden on the elderly population. This was done visually through pie charts. I also discussed the state of lhc in America to further persuade the reader on the problem. Then presented actionable, effective call to action along with some goals to direct the reader towards using the CTA tool effectively.
 Converted some stats into visuals to create interest. Removed years very old data frok the population growth dataset as per professor’s critique
 As per critiques, discussed some specific goals to conclude my story and added a simple, effective CTA 
 Refined visuals further, converted a pie chart to a proportion graphic, changed rhe colours, added some labels etc
